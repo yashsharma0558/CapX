@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Layout file for the MainActivity -->
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@android:color/white"
     android:padding="16dp">
-
+    <!-- Search Card -->
     <com.google.android.material.card.MaterialCardView
         android:id="@+id/searchCard"
         android:layout_width="match_parent"
@@ -47,7 +48,7 @@
                 app:tint="@android:color/darker_gray" />
         </LinearLayout>
     </com.google.android.material.card.MaterialCardView>
-
+    <!-- Loading Layout -->
     <LinearLayout
         android:id="@+id/loadingLayout"
         android:layout_width="wrap_content"
@@ -74,7 +75,7 @@
             android:text="Fetching stock data..."
             android:textSize="14sp" />
     </LinearLayout>
-
+    <!-- Stock Info Card -->
     <com.google.android.material.card.MaterialCardView
         android:id="@+id/stockInfoCard"
         android:layout_width="match_parent"

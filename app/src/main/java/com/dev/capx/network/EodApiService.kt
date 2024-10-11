@@ -7,15 +7,19 @@ import retrofit2.converter.gson.GsonConverterFactory
 import retrofit2.http.GET
 import retrofit2.http.Url
 
+// Retrofit service interface
 interface EodApiService {
-
+    // GET request to fetch stock data
     @GET
     suspend fun fetchStockData(
-        @Url fullUrl: String // Full URL provided at runtime
+        // URL parameter for the full URL
+        @Url fullUrl: String
     ): Response<StockInfo>
-
+    // Companion object to create the service
     companion object {
+        // Create a Retrofit instance
         fun create(baseUrl: String): EodApiService {
+            // Configure and return the service
             return Retrofit.Builder()
                 .baseUrl(baseUrl)
                 .addConverterFactory(GsonConverterFactory.create())
