@@ -15,7 +15,8 @@ A lightweight Android application that allows users to quickly look up real-time
 
 ## Screenshots 📱
 
-[Place your screenshots here]
+![capxss](https://github.com/user-attachments/assets/61b600d7-ef0d-4d52-8bff-03d38325dc0c)
+
 
 ## Technologies Used 🛠️
 
@@ -97,7 +98,7 @@ dependencies {
 
 ## Contact 📬
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - [Yash Sharma](https://www.linkedin.com/in/yash-sharma-b802a2251)
 
-Project Link: [https://github.com/yourusername/stock-lookup](https://github.com/yourusername/stock-lookup)
+Project Link: [https://github.com/yashsharma0558/CapX](https://github.com/yashsharma0558/CapX)
 
