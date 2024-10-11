@@ -45,8 +45,6 @@ capx/
     └── StockViewModelFactory.kt
 ```
 
-## Setup ⚙️
-
 ### Prerequisites
 
 - Android Studio Koala or newer
@@ -54,7 +52,10 @@ capx/
 - EODHD API Key (Get it from [EODHD Website](https://eodhd.com))
 
 ### Installation
+#### Method 1 - Download apk form Google Drive
+[Google Drive Link](https://drive.google.com/file/d/1zNY3_UAA0YhZwpF3yAEOnJtlzgyuDP6f/view?usp=drive_link)
 
+#### Method 2 - Manual Installation
 1. Clone the repository:
 ```bash
 git clone https://github.com/yashsharma0558/CapX.git
