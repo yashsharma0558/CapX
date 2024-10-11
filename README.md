@@ -53,7 +53,7 @@ capx/
 
 ### Installation
 #### Method 1 - Download apk form Google Drive
-[Google Drive Link](https://drive.google.com/file/d/1zNY3_UAA0YhZwpF3yAEOnJtlzgyuDP6f/view?usp=drive_link)
+[Google Drive Link](https://drive.google.com/file/d/1VVOKzV87ZADgNMwHyQwCMlFLhkr1m8iN/view?usp=drive_link)
 
 #### Method 2 - Manual Installation
 1. Clone the repository:
