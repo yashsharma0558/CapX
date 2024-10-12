@@ -13,7 +13,7 @@ A lightweight Android application that allows users to quickly look up real-time
 - Clean, minimalist single-screen interface
 - Smooth loading animations
 
-## Screenshots 📱
+## UI 📱
 
 ![capxss](https://github.com/user-attachments/assets/61b600d7-ef0d-4d52-8bff-03d38325dc0c)
 
