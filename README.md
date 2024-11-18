@@ -1,4 +1,4 @@
-# CapX - Stock Lookup 📈
+# Stock Lookup App 📈
 
 A lightweight Android application that allows users to quickly look up real-time stock information using the EODHD API.
 
